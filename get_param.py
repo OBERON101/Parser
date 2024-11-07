@@ -6,12 +6,7 @@ import logging
 from lxml import html
 
 # Импорт функций для извлечения данных
-from extrac import (
-    get_market_article, get_brand, get_processor, get_screen_resolution,
-    get_weight, get_battery_life, get_screen_matrix_type, get_screen_coating_type,
-    get_screen_diagonal, get_ram, get_video_memory, get_warranty_period,
-    get_operating_system, get_series
-)
+from extrac import get_attributes_of_product
 
 SAVE_DIR = 'html_files'  # Директория с сохранёнными HTML-файлами
 OUTPUT_FILE = 'laptops.json'  # Имя JSON-файла для сохранения результатов
@@ -45,22 +40,7 @@ def process_html_files():
             if tree is not None:
                 try:
                     # Извлечение данных о товаре
-                    product_data = {
-                        "Артикул Маркета": get_market_article(tree),
-                        "Бренд": get_brand(tree),
-                        "Процессор": get_processor(tree),
-                        "Разрешение экрана": get_screen_resolution(tree),
-                        "Вес": get_weight(tree),
-                        "Время автономной работы": get_battery_life(tree),
-                        "Тип матрицы экрана": get_screen_matrix_type(tree),
-                        "Тип покрытия экрана": get_screen_coating_type(tree),
-                        "Диагональ экрана": get_screen_diagonal(tree),
-                        "Оперативная память": get_ram(tree),
-                        "Объем видеопамяти": get_video_memory(tree),
-                        "Гарантийный срок": get_warranty_period(tree),
-                        "Операционная система": get_operating_system(tree),
-                        "Линейка": get_series(tree)
-                    }
+                    product_data = get_attributes_of_product(tree)
                     result[file_name] = product_data
                     logging.info(f"Данные из {file_name} успешно извлечены.")
                 except Exception as e:
@@ -70,3 +50,6 @@ def process_html_files():
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=4)
     logging.info("Обработка завершена, данные сохранены в JSON-файл.")
+
+
+process_html_files()
