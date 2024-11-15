@@ -17,10 +17,11 @@ def get_attribute_values(tree):
 
 def get_attribute_names(tree):
     try:
-        return list(map(lambda span: delete_double_spaces(span.text.replace('\n', '').strip().replace('  ', ' ')), tree.xpath('//span[contains(@class, "_1EbOn _2SUA6 _3kbFf IFARr _1A5yJ")]')))
+        return int(filter(lambda h3: '&thinsp;' in h3.text, tree.xpath('//h3[contains(@data-auto, "snippet-price-current")]'))[0].text.replace('&thinsp;', ''))
     except IndexError:
         logging.warning()
         return None
+
 
 def get_attributes_of_product(tree):
     try:

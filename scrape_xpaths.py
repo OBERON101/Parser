@@ -14,9 +14,9 @@ import logging
 logging.basicConfig(filename='log.txt', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 begin_sleep_time = 5
-html_pages_count = 5
+html_pages_count = 1000
 time_between_clicks = 2
-next_card_sleep_time = 4
+next_card_sleep_time = 15
 
 driver = webdriver.Firefox()
 driver.get("https://market.yandex.ru/catalog--noutbuki/26895412/list?hid=91013&local-offers-first=0")

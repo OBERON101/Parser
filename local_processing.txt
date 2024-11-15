@@ -1,2 +1,257 @@
 2024-11-06 20:35:53,988 - INFO - Запуск программы
 2024-11-06 20:36:31,913 - INFO - Запуск программы
+2024-11-07 15:47:41,872 - INFO - Файл html_files\page_1.html успешно загружен.
+2024-11-07 15:47:41,885 - INFO - Данные из page_1.html успешно извлечены.
+2024-11-07 15:47:49,756 - INFO - Файл html_files\page_2.html успешно загружен.
+2024-11-07 15:47:49,773 - INFO - Данные из page_2.html успешно извлечены.
+2024-11-07 15:47:56,691 - INFO - Файл html_files\page_3.html успешно загружен.
+2024-11-07 15:47:56,705 - INFO - Данные из page_3.html успешно извлечены.
+2024-11-07 15:47:56,710 - INFO - Обработка завершена, данные сохранены в JSON-файл.
+2024-11-12 22:41:23,800 - INFO - Файл html_files\page_1.html успешно загружен.
+2024-11-12 22:41:23,817 - INFO - Данные из page_1.html успешно извлечены.
+2024-11-12 22:41:34,093 - INFO - Файл html_files\page_10.html успешно загружен.
+2024-11-12 22:41:34,111 - INFO - Данные из page_10.html успешно извлечены.
+2024-11-12 22:41:34,300 - INFO - Файл html_files\page_11.html успешно загружен.
+2024-11-12 22:41:34,317 - INFO - Данные из page_11.html успешно извлечены.
+2024-11-12 22:41:34,514 - INFO - Файл html_files\page_12.html успешно загружен.
+2024-11-12 22:41:34,528 - INFO - Данные из page_12.html успешно извлечены.
+2024-11-12 22:41:42,596 - INFO - Файл html_files\page_13.html успешно загружен.
+2024-11-12 22:41:42,615 - INFO - Данные из page_13.html успешно извлечены.
+2024-11-12 22:41:50,698 - INFO - Файл html_files\page_14.html успешно загружен.
+2024-11-12 22:41:50,717 - INFO - Данные из page_14.html успешно извлечены.
+2024-11-12 22:41:58,396 - INFO - Файл html_files\page_15.html успешно загружен.
+2024-11-12 22:41:58,413 - INFO - Данные из page_15.html успешно извлечены.
+2024-11-12 22:41:58,633 - INFO - Файл html_files\page_16.html успешно загружен.
+2024-11-12 22:41:58,651 - INFO - Данные из page_16.html успешно извлечены.
+2024-11-12 22:41:58,829 - INFO - Файл html_files\page_17.html успешно загружен.
+2024-11-12 22:41:58,845 - INFO - Данные из page_17.html успешно извлечены.
+2024-11-12 22:42:07,572 - INFO - Файл html_files\page_18.html успешно загружен.
+2024-11-12 22:42:07,586 - INFO - Данные из page_18.html успешно извлечены.
+2024-11-12 22:42:16,669 - INFO - Файл html_files\page_19.html успешно загружен.
+2024-11-12 22:42:16,691 - INFO - Данные из page_19.html успешно извлечены.
+2024-11-12 22:42:24,469 - INFO - Файл html_files\page_2.html успешно загружен.
+2024-11-12 22:42:24,486 - INFO - Данные из page_2.html успешно извлечены.
+2024-11-12 22:42:32,424 - INFO - Файл html_files\page_20.html успешно загружен.
+2024-11-12 22:42:32,442 - INFO - Данные из page_20.html успешно извлечены.
+2024-11-12 22:42:40,506 - INFO - Файл html_files\page_21.html успешно загружен.
+2024-11-12 22:42:40,527 - INFO - Данные из page_21.html успешно извлечены.
+2024-11-12 22:42:48,125 - INFO - Файл html_files\page_22.html успешно загружен.
+2024-11-12 22:42:48,142 - INFO - Данные из page_22.html успешно извлечены.
+2024-11-12 22:43:00,190 - INFO - Файл html_files\page_23.html успешно загружен.
+2024-11-12 22:43:00,238 - INFO - Данные из page_23.html успешно извлечены.
+2024-11-12 22:43:08,465 - INFO - Файл html_files\page_24.html успешно загружен.
+2024-11-12 22:43:08,482 - INFO - Данные из page_24.html успешно извлечены.
+2024-11-12 22:43:17,743 - INFO - Файл html_files\page_25.html успешно загружен.
+2024-11-12 22:43:17,759 - INFO - Данные из page_25.html успешно извлечены.
+2024-11-12 22:43:25,574 - INFO - Файл html_files\page_26.html успешно загружен.
+2024-11-12 22:43:25,599 - INFO - Данные из page_26.html успешно извлечены.
+2024-11-12 22:43:41,880 - INFO - Файл html_files\page_3.html успешно загружен.
+2024-11-12 22:43:41,906 - INFO - Данные из page_3.html успешно извлечены.
+2024-11-12 22:43:53,280 - INFO - Файл html_files\page_4.html успешно загружен.
+2024-11-12 22:43:53,303 - INFO - Данные из page_4.html успешно извлечены.
+2024-11-12 22:43:53,600 - INFO - Файл html_files\page_5.html успешно загружен.
+2024-11-12 22:43:53,623 - INFO - Данные из page_5.html успешно извлечены.
+2024-11-12 22:44:02,355 - INFO - Файл html_files\page_6.html успешно загружен.
+2024-11-12 22:44:02,373 - INFO - Данные из page_6.html успешно извлечены.
+2024-11-12 22:44:10,418 - INFO - Файл html_files\page_7.html успешно загружен.
+2024-11-12 22:44:10,434 - INFO - Данные из page_7.html успешно извлечены.
+2024-11-12 22:44:18,706 - INFO - Файл html_files\page_8.html успешно загружен.
+2024-11-12 22:44:18,726 - INFO - Данные из page_8.html успешно извлечены.
+2024-11-12 22:44:26,740 - INFO - Файл html_files\page_9.html успешно загружен.
+2024-11-12 22:44:26,759 - INFO - Данные из page_9.html успешно извлечены.
+2024-11-12 22:44:26,773 - INFO - Обработка завершена, данные сохранены в JSON-файл.
+2024-11-13 14:00:25,400 - INFO - Файл html_files\page_1.html успешно загружен.
+2024-11-13 14:00:25,409 - ERROR - Ошибка при извлечении данных из page_1.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:25,757 - INFO - Файл html_files\page_10.html успешно загружен.
+2024-11-13 14:00:25,775 - ERROR - Ошибка при извлечении данных из page_10.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:26,043 - INFO - Файл html_files\page_11.html успешно загружен.
+2024-11-13 14:00:26,058 - ERROR - Ошибка при извлечении данных из page_11.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:26,360 - INFO - Файл html_files\page_12.html успешно загружен.
+2024-11-13 14:00:26,374 - ERROR - Ошибка при извлечении данных из page_12.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:26,695 - INFO - Файл html_files\page_13.html успешно загружен.
+2024-11-13 14:00:26,713 - ERROR - Ошибка при извлечении данных из page_13.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:27,020 - INFO - Файл html_files\page_14.html успешно загружен.
+2024-11-13 14:00:27,039 - ERROR - Ошибка при извлечении данных из page_14.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:27,422 - INFO - Файл html_files\page_15.html успешно загружен.
+2024-11-13 14:00:27,438 - ERROR - Ошибка при извлечении данных из page_15.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:28,034 - INFO - Файл html_files\page_16.html успешно загружен.
+2024-11-13 14:00:28,055 - ERROR - Ошибка при извлечении данных из page_16.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:28,291 - INFO - Файл html_files\page_17.html успешно загружен.
+2024-11-13 14:00:28,333 - ERROR - Ошибка при извлечении данных из page_17.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:28,617 - INFO - Файл html_files\page_18.html успешно загружен.
+2024-11-13 14:00:28,632 - ERROR - Ошибка при извлечении данных из page_18.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:28,889 - INFO - Файл html_files\page_19.html успешно загружен.
+2024-11-13 14:00:28,903 - ERROR - Ошибка при извлечении данных из page_19.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:29,204 - INFO - Файл html_files\page_2.html успешно загружен.
+2024-11-13 14:00:29,230 - ERROR - Ошибка при извлечении данных из page_2.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:30,100 - INFO - Файл html_files\page_20.html успешно загружен.
+2024-11-13 14:00:30,120 - ERROR - Ошибка при извлечении данных из page_20.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:30,447 - INFO - Файл html_files\page_21.html успешно загружен.
+2024-11-13 14:00:30,467 - ERROR - Ошибка при извлечении данных из page_21.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:30,764 - INFO - Файл html_files\page_22.html успешно загружен.
+2024-11-13 14:00:30,787 - ERROR - Ошибка при извлечении данных из page_22.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:31,095 - INFO - Файл html_files\page_23.html успешно загружен.
+2024-11-13 14:00:31,111 - ERROR - Ошибка при извлечении данных из page_23.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:31,358 - INFO - Файл html_files\page_24.html успешно загружен.
+2024-11-13 14:00:31,372 - ERROR - Ошибка при извлечении данных из page_24.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:31,638 - INFO - Файл html_files\page_25.html успешно загружен.
+2024-11-13 14:00:31,651 - ERROR - Ошибка при извлечении данных из page_25.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:31,941 - INFO - Файл html_files\page_26.html успешно загружен.
+2024-11-13 14:00:31,959 - ERROR - Ошибка при извлечении данных из page_26.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:32,254 - INFO - Файл html_files\page_3.html успешно загружен.
+2024-11-13 14:00:32,271 - ERROR - Ошибка при извлечении данных из page_3.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:32,585 - INFO - Файл html_files\page_4.html успешно загружен.
+2024-11-13 14:00:32,602 - ERROR - Ошибка при извлечении данных из page_4.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:32,902 - INFO - Файл html_files\page_5.html успешно загружен.
+2024-11-13 14:00:32,918 - ERROR - Ошибка при извлечении данных из page_5.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:33,158 - INFO - Файл html_files\page_6.html успешно загружен.
+2024-11-13 14:00:33,173 - ERROR - Ошибка при извлечении данных из page_6.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:33,478 - INFO - Файл html_files\page_7.html успешно загружен.
+2024-11-13 14:00:33,492 - ERROR - Ошибка при извлечении данных из page_7.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:33,834 - INFO - Файл html_files\page_8.html успешно загружен.
+2024-11-13 14:00:33,847 - ERROR - Ошибка при извлечении данных из page_8.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:34,241 - INFO - Файл html_files\page_9.html успешно загружен.
+2024-11-13 14:00:34,269 - ERROR - Ошибка при извлечении данных из page_9.html: 'NoneType' object has no attribute 'replace'
+2024-11-13 14:00:34,271 - INFO - Обработка завершена, данные сохранены в JSON-файл.
+2024-11-13 15:05:30,151 - INFO - Файл html_files\page_1.html успешно загружен.
+2024-11-13 15:05:30,157 - ERROR - Ошибка при извлечении данных из page_1.html: 'filter' object is not subscriptable
+2024-11-13 15:05:37,583 - INFO - Файл html_files\page_10.html успешно загружен.
+2024-11-13 15:05:37,597 - ERROR - Ошибка при извлечении данных из page_10.html: 'filter' object is not subscriptable
+2024-11-13 15:05:44,357 - INFO - Файл html_files\page_11.html успешно загружен.
+2024-11-13 15:05:44,368 - ERROR - Ошибка при извлечении данных из page_11.html: 'filter' object is not subscriptable
+2024-11-13 15:05:51,518 - INFO - Файл html_files\page_12.html успешно загружен.
+2024-11-13 15:05:51,528 - ERROR - Ошибка при извлечении данных из page_12.html: 'filter' object is not subscriptable
+2024-11-13 15:05:59,526 - INFO - Файл html_files\page_13.html успешно загружен.
+2024-11-13 15:05:59,537 - ERROR - Ошибка при извлечении данных из page_13.html: 'filter' object is not subscriptable
+2024-11-13 15:06:07,165 - INFO - Файл html_files\page_14.html успешно загружен.
+2024-11-13 15:06:07,178 - ERROR - Ошибка при извлечении данных из page_14.html: 'filter' object is not subscriptable
+2024-11-13 15:06:14,623 - INFO - Файл html_files\page_15.html успешно загружен.
+2024-11-13 15:06:14,634 - ERROR - Ошибка при извлечении данных из page_15.html: 'filter' object is not subscriptable
+2024-11-13 15:06:22,277 - INFO - Файл html_files\page_16.html успешно загружен.
+2024-11-13 15:06:22,289 - ERROR - Ошибка при извлечении данных из page_16.html: 'filter' object is not subscriptable
+2024-11-13 15:06:28,805 - INFO - Файл html_files\page_17.html успешно загружен.
+2024-11-13 15:06:28,816 - ERROR - Ошибка при извлечении данных из page_17.html: 'filter' object is not subscriptable
+2024-11-13 15:06:36,325 - INFO - Файл html_files\page_18.html успешно загружен.
+2024-11-13 15:06:36,335 - ERROR - Ошибка при извлечении данных из page_18.html: 'filter' object is not subscriptable
+2024-11-13 15:06:44,222 - INFO - Файл html_files\page_19.html успешно загружен.
+2024-11-13 15:06:44,233 - ERROR - Ошибка при извлечении данных из page_19.html: 'filter' object is not subscriptable
+2024-11-13 15:06:51,414 - INFO - Файл html_files\page_2.html успешно загружен.
+2024-11-13 15:06:51,425 - ERROR - Ошибка при извлечении данных из page_2.html: 'filter' object is not subscriptable
+2024-11-13 15:06:59,065 - INFO - Файл html_files\page_20.html успешно загружен.
+2024-11-13 15:06:59,076 - ERROR - Ошибка при извлечении данных из page_20.html: 'filter' object is not subscriptable
+2024-11-13 15:07:06,871 - INFO - Файл html_files\page_21.html успешно загружен.
+2024-11-13 15:07:06,883 - ERROR - Ошибка при извлечении данных из page_21.html: 'filter' object is not subscriptable
+2024-11-13 15:07:14,262 - INFO - Файл html_files\page_22.html успешно загружен.
+2024-11-13 15:07:14,274 - ERROR - Ошибка при извлечении данных из page_22.html: 'filter' object is not subscriptable
+2024-11-13 15:07:21,904 - INFO - Файл html_files\page_23.html успешно загружен.
+2024-11-13 15:07:21,916 - ERROR - Ошибка при извлечении данных из page_23.html: 'filter' object is not subscriptable
+2024-11-13 15:07:29,206 - INFO - Файл html_files\page_24.html успешно загружен.
+2024-11-13 15:07:29,217 - ERROR - Ошибка при извлечении данных из page_24.html: 'filter' object is not subscriptable
+2024-11-13 15:07:37,013 - INFO - Файл html_files\page_25.html успешно загружен.
+2024-11-13 15:07:37,025 - ERROR - Ошибка при извлечении данных из page_25.html: 'filter' object is not subscriptable
+2024-11-13 15:08:33,167 - INFO - Файл html_files\page_1.html успешно загружен.
+2024-11-13 15:08:33,171 - ERROR - Ошибка при извлечении данных из page_1.html: 'filter' object is not subscriptable
+2024-11-13 15:08:33,392 - INFO - Файл html_files\page_10.html успешно загружен.
+2024-11-13 15:08:33,404 - ERROR - Ошибка при извлечении данных из page_10.html: 'filter' object is not subscriptable
+2024-11-13 15:08:33,590 - INFO - Файл html_files\page_11.html успешно загружен.
+2024-11-13 15:08:33,602 - ERROR - Ошибка при извлечении данных из page_11.html: 'filter' object is not subscriptable
+2024-11-13 15:08:33,799 - INFO - Файл html_files\page_12.html успешно загружен.
+2024-11-13 15:08:33,809 - ERROR - Ошибка при извлечении данных из page_12.html: 'filter' object is not subscriptable
+2024-11-13 15:08:34,039 - INFO - Файл html_files\page_13.html успешно загружен.
+2024-11-13 15:08:34,050 - ERROR - Ошибка при извлечении данных из page_13.html: 'filter' object is not subscriptable
+2024-11-13 15:08:34,273 - INFO - Файл html_files\page_14.html успешно загружен.
+2024-11-13 15:08:34,284 - ERROR - Ошибка при извлечении данных из page_14.html: 'filter' object is not subscriptable
+2024-11-13 15:08:34,506 - INFO - Файл html_files\page_15.html успешно загружен.
+2024-11-13 15:08:34,518 - ERROR - Ошибка при извлечении данных из page_15.html: 'filter' object is not subscriptable
+2024-11-13 15:08:34,743 - INFO - Файл html_files\page_16.html успешно загружен.
+2024-11-13 15:08:34,755 - ERROR - Ошибка при извлечении данных из page_16.html: 'filter' object is not subscriptable
+2024-11-13 15:08:34,963 - INFO - Файл html_files\page_17.html успешно загружен.
+2024-11-13 15:08:34,975 - ERROR - Ошибка при извлечении данных из page_17.html: 'filter' object is not subscriptable
+2024-11-13 15:08:35,198 - INFO - Файл html_files\page_18.html успешно загружен.
+2024-11-13 15:08:35,208 - ERROR - Ошибка при извлечении данных из page_18.html: 'filter' object is not subscriptable
+2024-11-13 15:08:35,415 - INFO - Файл html_files\page_19.html успешно загружен.
+2024-11-13 15:08:35,426 - ERROR - Ошибка при извлечении данных из page_19.html: 'filter' object is not subscriptable
+2024-11-13 15:08:35,637 - INFO - Файл html_files\page_2.html успешно загружен.
+2024-11-13 15:08:35,648 - ERROR - Ошибка при извлечении данных из page_2.html: 'filter' object is not subscriptable
+2024-11-13 15:08:35,876 - INFO - Файл html_files\page_20.html успешно загружен.
+2024-11-13 15:08:35,887 - ERROR - Ошибка при извлечении данных из page_20.html: 'filter' object is not subscriptable
+2024-11-13 15:08:36,112 - INFO - Файл html_files\page_21.html успешно загружен.
+2024-11-13 15:08:36,124 - ERROR - Ошибка при извлечении данных из page_21.html: 'filter' object is not subscriptable
+2024-11-13 15:08:36,339 - INFO - Файл html_files\page_22.html успешно загружен.
+2024-11-13 15:08:36,351 - ERROR - Ошибка при извлечении данных из page_22.html: 'filter' object is not subscriptable
+2024-11-13 15:08:36,572 - INFO - Файл html_files\page_23.html успешно загружен.
+2024-11-13 15:08:36,583 - ERROR - Ошибка при извлечении данных из page_23.html: 'filter' object is not subscriptable
+2024-11-13 15:08:36,790 - INFO - Файл html_files\page_24.html успешно загружен.
+2024-11-13 15:08:36,801 - ERROR - Ошибка при извлечении данных из page_24.html: 'filter' object is not subscriptable
+2024-11-13 15:08:37,019 - INFO - Файл html_files\page_25.html успешно загружен.
+2024-11-13 15:08:37,029 - ERROR - Ошибка при извлечении данных из page_25.html: 'filter' object is not subscriptable
+2024-11-13 15:08:37,258 - INFO - Файл html_files\page_26.html успешно загружен.
+2024-11-13 15:08:37,269 - ERROR - Ошибка при извлечении данных из page_26.html: 'filter' object is not subscriptable
+2024-11-13 15:08:45,041 - INFO - Файл html_files\page_3.html успешно загружен.
+2024-11-13 15:08:45,053 - ERROR - Ошибка при извлечении данных из page_3.html: 'filter' object is not subscriptable
+2024-11-13 15:08:52,556 - INFO - Файл html_files\page_4.html успешно загружен.
+2024-11-13 15:08:52,568 - ERROR - Ошибка при извлечении данных из page_4.html: 'filter' object is not subscriptable
+2024-11-13 15:09:00,008 - INFO - Файл html_files\page_5.html успешно загружен.
+2024-11-13 15:09:00,020 - ERROR - Ошибка при извлечении данных из page_5.html: 'filter' object is not subscriptable
+2024-11-13 15:09:07,379 - INFO - Файл html_files\page_6.html успешно загружен.
+2024-11-13 15:09:07,391 - ERROR - Ошибка при извлечении данных из page_6.html: 'filter' object is not subscriptable
+2024-11-13 15:09:14,825 - INFO - Файл html_files\page_7.html успешно загружен.
+2024-11-13 15:09:14,836 - ERROR - Ошибка при извлечении данных из page_7.html: 'filter' object is not subscriptable
+2024-11-13 15:09:22,537 - INFO - Файл html_files\page_8.html успешно загружен.
+2024-11-13 15:09:22,549 - ERROR - Ошибка при извлечении данных из page_8.html: 'filter' object is not subscriptable
+2024-11-13 15:09:30,240 - INFO - Файл html_files\page_9.html успешно загружен.
+2024-11-13 15:09:30,251 - ERROR - Ошибка при извлечении данных из page_9.html: 'filter' object is not subscriptable
+2024-11-13 15:09:30,253 - INFO - Обработка завершена, данные сохранены в JSON-файл.
+2024-11-13 15:09:53,742 - INFO - Файл html_files\page_1.html успешно загружен.
+2024-11-13 15:09:53,747 - ERROR - Ошибка при извлечении данных из page_1.html: 'filter' object is not subscriptable
+2024-11-13 15:09:53,954 - INFO - Файл html_files\page_10.html успешно загружен.
+2024-11-13 15:09:53,966 - ERROR - Ошибка при извлечении данных из page_10.html: 'filter' object is not subscriptable
+2024-11-13 15:09:54,139 - INFO - Файл html_files\page_11.html успешно загружен.
+2024-11-13 15:09:54,150 - ERROR - Ошибка при извлечении данных из page_11.html: 'filter' object is not subscriptable
+2024-11-13 15:09:54,336 - INFO - Файл html_files\page_12.html успешно загружен.
+2024-11-13 15:09:54,346 - ERROR - Ошибка при извлечении данных из page_12.html: 'filter' object is not subscriptable
+2024-11-13 15:09:54,562 - INFO - Файл html_files\page_13.html успешно загружен.
+2024-11-13 15:09:54,573 - ERROR - Ошибка при извлечении данных из page_13.html: 'filter' object is not subscriptable
+2024-11-13 15:09:54,777 - INFO - Файл html_files\page_14.html успешно загружен.
+2024-11-13 15:09:54,789 - ERROR - Ошибка при извлечении данных из page_14.html: 'filter' object is not subscriptable
+2024-11-13 15:09:54,996 - INFO - Файл html_files\page_15.html успешно загружен.
+2024-11-13 15:09:55,009 - ERROR - Ошибка при извлечении данных из page_15.html: 'filter' object is not subscriptable
+2024-11-13 15:09:55,217 - INFO - Файл html_files\page_16.html успешно загружен.
+2024-11-13 15:09:55,229 - ERROR - Ошибка при извлечении данных из page_16.html: 'filter' object is not subscriptable
+2024-11-13 15:09:55,389 - INFO - Файл html_files\page_17.html успешно загружен.
+2024-11-13 15:09:55,401 - ERROR - Ошибка при извлечении данных из page_17.html: 'filter' object is not subscriptable
+2024-11-13 15:09:55,609 - INFO - Файл html_files\page_18.html успешно загружен.
+2024-11-13 15:09:55,619 - ERROR - Ошибка при извлечении данных из page_18.html: 'filter' object is not subscriptable
+2024-11-13 15:09:55,811 - INFO - Файл html_files\page_19.html успешно загружен.
+2024-11-13 15:09:55,822 - ERROR - Ошибка при извлечении данных из page_19.html: 'filter' object is not subscriptable
+2024-11-13 15:09:56,019 - INFO - Файл html_files\page_2.html успешно загружен.
+2024-11-13 15:09:56,029 - ERROR - Ошибка при извлечении данных из page_2.html: 'filter' object is not subscriptable
+2024-11-13 15:09:56,246 - INFO - Файл html_files\page_20.html успешно загружен.
+2024-11-13 15:09:56,257 - ERROR - Ошибка при извлечении данных из page_20.html: 'filter' object is not subscriptable
+2024-11-13 15:09:56,461 - INFO - Файл html_files\page_21.html успешно загружен.
+2024-11-13 15:09:56,473 - ERROR - Ошибка при извлечении данных из page_21.html: 'filter' object is not subscriptable
+2024-11-13 15:09:56,674 - INFO - Файл html_files\page_22.html успешно загружен.
+2024-11-13 15:09:56,686 - ERROR - Ошибка при извлечении данных из page_22.html: 'filter' object is not subscriptable
+2024-11-13 15:09:56,890 - INFO - Файл html_files\page_23.html успешно загружен.
+2024-11-13 15:09:56,901 - ERROR - Ошибка при извлечении данных из page_23.html: 'filter' object is not subscriptable
+2024-11-13 15:09:57,098 - INFO - Файл html_files\page_24.html успешно загружен.
+2024-11-13 15:09:57,109 - ERROR - Ошибка при извлечении данных из page_24.html: 'filter' object is not subscriptable
+2024-11-13 15:09:57,311 - INFO - Файл html_files\page_25.html успешно загружен.
+2024-11-13 15:09:57,323 - ERROR - Ошибка при извлечении данных из page_25.html: 'filter' object is not subscriptable
+2024-11-13 15:09:57,530 - INFO - Файл html_files\page_26.html успешно загружен.
+2024-11-13 15:09:57,542 - ERROR - Ошибка при извлечении данных из page_26.html: 'filter' object is not subscriptable
+2024-11-13 15:09:57,755 - INFO - Файл html_files\page_3.html успешно загружен.
+2024-11-13 15:09:57,767 - ERROR - Ошибка при извлечении данных из page_3.html: 'filter' object is not subscriptable
+2024-11-13 15:09:57,968 - INFO - Файл html_files\page_4.html успешно загружен.
+2024-11-13 15:09:57,979 - ERROR - Ошибка при извлечении данных из page_4.html: 'filter' object is not subscriptable
+2024-11-13 15:09:58,182 - INFO - Файл html_files\page_5.html успешно загружен.
+2024-11-13 15:09:58,194 - ERROR - Ошибка при извлечении данных из page_5.html: 'filter' object is not subscriptable
+2024-11-13 15:09:58,388 - INFO - Файл html_files\page_6.html успешно загружен.
+2024-11-13 15:09:58,399 - ERROR - Ошибка при извлечении данных из page_6.html: 'filter' object is not subscriptable
+2024-11-13 15:09:58,608 - INFO - Файл html_files\page_7.html успешно загружен.
+2024-11-13 15:09:58,619 - ERROR - Ошибка при извлечении данных из page_7.html: 'filter' object is not subscriptable
+2024-11-13 15:09:58,834 - INFO - Файл html_files\page_8.html успешно загружен.
+2024-11-13 15:09:58,845 - ERROR - Ошибка при извлечении данных из page_8.html: 'filter' object is not subscriptable
+2024-11-13 15:09:59,059 - INFO - Файл html_files\page_9.html успешно загружен.
+2024-11-13 15:09:59,071 - ERROR - Ошибка при извлечении данных из page_9.html: 'filter' object is not subscriptable
+2024-11-13 15:09:59,072 - INFO - Обработка завершена, данные сохранены в JSON-файл.
